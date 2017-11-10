@@ -39,12 +39,17 @@ a {
   text-decoration: none;
   width: 50%;
   align-items: center;
+  font-weight: bold;
 }
 
 .btn {
-  color: #f0eee8;
+  color: white;
   font-size: 1.125rem;
   background-color: #785439;
+}
+
+h2 {
+  font-weight: bold;
 }
 
 .link-card h2 {
@@ -85,4 +90,8 @@ dd {
   float: right;
   width: 50%;
   margin: 0;
+}
+
+footer {
+  text-align: center;
 }
